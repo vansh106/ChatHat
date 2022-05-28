@@ -1,0 +1,45 @@
+com/example/chathat/MainActivity.java
+ com.example.chathat.MainActivity
+ com.example.chathat.MainActivity$1
+ com.example.chathat.MainActivity$2
+ com.example.chathat.MainActivity$3
+com/example/chathat/chatActivity.java
+ com.example.chathat.chatActivity
+ com.example.chathat.chatActivity$1
+com/example/chathat/MyChatActivity.java
+ com.example.chathat.MyChatActivity
+ com.example.chathat.MyChatActivity$1
+ com.example.chathat.MyChatActivity$2
+ com.example.chathat.MyChatActivity$3
+ com.example.chathat.MyChatActivity$4
+com/example/chathat/MessageAdapter.java
+ com.example.chathat.MessageAdapter
+ com.example.chathat.MessageAdapter$ViewHolder
+com/example/chathat/User.java
+ com.example.chathat.User
+com/example/chathat/ModelClass.java
+ com.example.chathat.ModelClass
+com/example/chathat/ProfileActivity.java
+ com.example.chathat.ProfileActivity
+ com.example.chathat.ProfileActivity$1
+ com.example.chathat.ProfileActivity$2
+ com.example.chathat.ProfileActivity$3
+ com.example.chathat.ProfileActivity$3$1
+ com.example.chathat.ProfileActivity$3$1$1
+ com.example.chathat.ProfileActivity$3$1$2
+ com.example.chathat.ProfileActivity$4
+com/example/chathat/UsersAdapter.java
+ com.example.chathat.UsersAdapter
+ com.example.chathat.UsersAdapter$1
+ com.example.chathat.UsersAdapter$ViewHolder
+com/example/chathat/SignUpActivity.java
+ com.example.chathat.SignUpActivity
+ com.example.chathat.SignUpActivity$1
+ com.example.chathat.SignUpActivity$2
+ com.example.chathat.SignUpActivity$3
+ com.example.chathat.SignUpActivity$3$1
+ com.example.chathat.SignUpActivity$3$1$1
+ com.example.chathat.SignUpActivity$3$1$1$1
+ com.example.chathat.SignUpActivity$3$1$1$2
+com/example/chathat/BuildConfig.java
+ com.example.chathat.BuildConfig

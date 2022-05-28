@@ -1,0 +1,4 @@
+#Sun Oct 03 10:39:01 IST 2021
+base.0=C\:\\Learning app dev\\ChatHat\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
